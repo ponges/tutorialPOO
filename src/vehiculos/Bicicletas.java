@@ -11,7 +11,7 @@ public class Bicicletas extends Vehiculos {
 
     @Override
     public void encender(){
-        System.out.println("Comenzar a pedaliar");
+        System.out.println("Comenzar a pedaliar mas fuerte que nunca");
     }
 
     public void encenderMotor(){
